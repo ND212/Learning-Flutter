@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Linh tinh\flutter_english_card_app\build\windows\CMakeFiles\e9f19084dbd998a7ece26afeb8697d8a\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Linh tinh\flutter_english_card_app\build\windows\CMakeFiles\703658968de6a1fb0cea4c30f095202f\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Linh tinh\flutter_english_card_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Admin\Desktop\Linh tinh\flutter_english_card_app\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{445BED44-F996-3A7E-B21C-7BA3B6AAE68B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

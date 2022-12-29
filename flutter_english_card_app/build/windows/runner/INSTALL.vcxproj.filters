@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Desktop\Linh tinh\flutter_english_card_app\build\windows\CMakeFiles\280247f9bdf7efb6e9685f231bbd7f24\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{445BED44-F996-3A7E-B21C-7BA3B6AAE68B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
