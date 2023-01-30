@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(primaryColor: Colors.white),
       home: const MyHomePage(),
     );
@@ -128,8 +129,8 @@ class MyHomePage extends StatelessWidget {
             top: height * 0.51,
             left: 1 / 8 * width,
             child: Container(
-              width: width * 0.4,
-              height: width * 0.4,
+              width: width * 0.3,
+              height: width * 0.3,
               color: Colors.black26.withOpacity(0.4),
             ),
           )
