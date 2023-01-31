@@ -26,6 +26,17 @@ class MyHomePage extends StatelessWidget {
     double width = MediaQuery.of(context).size.width;
     double height = MediaQuery.of(context).size.height;
     return Scaffold(
+      floatingActionButton: Container(
+        decoration: BoxDecoration(
+            color: Colors.blue, borderRadius: BorderRadius.circular(50)),
+        child: IconButton(
+          icon: const Icon(
+            Icons.home,
+            color: Colors.white,
+          ),
+          onPressed: () {},
+        ),
+      ),
       body: Stack(
         children: [
           Row(
